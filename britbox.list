@@ -1,7 +1,8 @@
-# Britbox
-DOMAIN,vod-dash-ntham-comm-live.akamaized.net
-DOMAIN,vod-dash-ntham-comm.live.cf.md.bbci.co.uk
-DOMAIN,vod-hls-ntham-comm-live.akamaized.net
-DOMAIN,vod-hls-ntham-comm.live.cf.md.bbci.co.uk
 DOMAIN-SUFFIX,britbox.com
+DOMAIN-SUFFIX,britbox.co.uk
 DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bb-static.com
+DOMAIN-SUFFIX,massive-itv.com
+DOMAIN-SUFFIX,itv.com
+DOMAIN,itvpnp.stage.ott.irdeto.com
+DOMAIN,itvpnp.live.ott.irdeto.com

@@ -1,3 +1,4 @@
+# > Britbox
 DOMAIN-SUFFIX,britbox.com
 DOMAIN-SUFFIX,britbox.co.uk
 DOMAIN-SUFFIX,bbc.co.uk
@@ -6,3 +7,5 @@ DOMAIN-SUFFIX,massive-itv.com
 DOMAIN-SUFFIX,itv.com
 DOMAIN,itvpnp.stage.ott.irdeto.com
 DOMAIN,itvpnp.live.ott.irdeto.com
+PROCESS-NAME,com.britbox.app
+USER-AGENT,britbox*

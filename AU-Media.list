@@ -50,11 +50,11 @@ DOMAIN,sbs-live.akamaized.net
 DOMAIN,sbs-live-dai.akamaized.net
 
 # NAME: Stan
-DOMAIN-SUFFIX,stan.com.au,Stan
-DOMAIN,stan.video,Stan
-DOMAIN-SUFFIX,live01-stan.akamaized.net,Stan
-DOMAIN-SUFFIX,live02-stan.akamaized.net,Stan
-DOMAIN,streamcoimg-a.akamaihd.net,Stan
+DOMAIN,streamcoimg-a.akamaihd.net
+DOMAIN-SUFFIX,stan.com.au
+DOMAIN-SUFFIX,stan.video
+DOMAIN-SUFFIX,live01-stan.akamaized.net
+DOMAIN-SUFFIX,live02-stan.akamaized.net
 
 # NAME: Optus
 DOMAIN-SUFFIX,optus.com.au

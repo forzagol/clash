@@ -1,0 +1,10 @@
+DOMAIN,fox.penthera.com
+DOMAIN,logs.browser-intake-datadoghq.com
+DOMAIN,rum.browser-intake-datadoghq.com
+DOMAIN-SUFFIX,assets.foxdcg.com
+DOMAIN-SUFFIX,static-media.fox.com
+DOMAIN-SUFFIX,b.fox.com
+DOMAIN-SUFFIX,api3.fox.com
+DOMAIN-SUFFIX,sb.scorecardresearch.com
+DOMAIN-SUFFIX,config.foxdcg.com
+DOMAIN-SUFFIX,ping.chartbeat.net

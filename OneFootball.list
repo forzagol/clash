@@ -1,7 +1,8 @@
 DOMAIN-KEYWORD,onefootball
 DOMAIN,videos-fms.jwpsrv.com
-DOMAIN,cdn.jwplayer.com
-DOMAIN,youboranqs01.com
+DOMAIN,youborafds01.com
+DOMAIN-SUFFIX,cdn.jwplayer.com
+DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-SUFFIX,infinity-c1.youboranqs01.com
 DOMAIN-SUFFIX,onefootball.com
 DOMAIN-SUFFIX,urbanairship.com

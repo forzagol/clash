@@ -2,6 +2,7 @@ DOMAIN,vod-dash-ntham-comm-live.akamaized.net
 DOMAIN,vod-dash-ntham-comm.live.cf.md.bbci.co.uk
 DOMAIN,vod-hls-ntham-comm-live.akamaized.net
 DOMAIN,vod-hls-ntham-comm.live.cf.md.bbci.co.uk
+DOMAIN-SUFFIX,mybbc-analytics.files.bbci.co.uk
 DOMAIN-SUFFIX,britbox.com
 DOMAIN-SUFFIX,vs-hls-pushb-ntham-comm.live.cf.md.bbci.co.uk
 DOMAIN-SUFFIX,a1.api.bbc.co.uk

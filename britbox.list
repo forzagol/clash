@@ -4,6 +4,6 @@ DOMAIN,vod-hls-ntham-comm-live.akamaized.net
 DOMAIN,vod-hls-ntham-comm.live.cf.md.bbci.co.uk
 DOMAIN-SUFFIX,mybbc-analytics.files.bbci.co.uk
 DOMAIN-SUFFIX,britbox.com
-DOMAIN-SUFFIX,vs-hls-pushb-ntham-comm.live.cf.md.bbci.co.uk
-DOMAIN-SUFFIX,a1.api.bbc.co.uk
+DOMAIN-SUFFIX,vs-hls-pushb-ntham-comm.live.cf.md.bbci.co.uk,美国节点
+DOMAIN-SUFFIX,a1.api.bbc.co.uk,美国节点
 DOMAIN-SUFFIX,bbc.co.uk

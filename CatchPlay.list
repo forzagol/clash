@@ -1,0 +1,10 @@
+# 内容：CatchPlay+
+
+USER-AGENT,CATCHPLAY*
+DOMAIN-KEYWORD,catchplay
+DOMAIN,hp2-api.catchplay.com
+DOMAIN,sunapi.catchplay.com
+DOMAIN,appupdates.catchplay.com
+DOMAIN,material.asset.catchplay.com
+DOMAIN,webcms.asset.catchplay.com
+DOMAIN-SUFFIX,catchpaly.com

@@ -1,7 +1,7 @@
-DOMAIN,vod-dash-ntham-comm-live.akamaized.net
-DOMAIN,vod-dash-ntham-comm.live.cf.md.bbci.co.uk
-DOMAIN,vod-hls-ntham-comm-live.akamaized.net
-DOMAIN,vod-hls-ntham-comm.live.cf.md.bbci.co.uk
-DOMAIN-SUFFIX,britbox.com
-DOMAIN-SUFFIX,bbci.co.uk
-DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN,vod-dash-ntham-comm-live.akamaized.net, BritBox
+DOMAIN,vod-dash-ntham-comm.live.cf.md.bbci.co.uk, BritBox
+DOMAIN,vod-hls-ntham-comm-live.akamaized.net, BritBox
+DOMAIN,vod-hls-ntham-comm.live.cf.md.bbci.co.uk, BritBox
+DOMAIN-SUFFIX,britbox.com, BritBox
+DOMAIN-SUFFIX,britbox.co.uk, 英国
+

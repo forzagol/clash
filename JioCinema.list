@@ -1,7 +1,7 @@
-DOMAIN,voot.com
-DOMAIN,jiocinema.voot.com
-DOMAIN,jio.com
-DOMAIN,jiocinema.com
+DOMAIN-SUFFIX,voot.com
+DOMAIN-SUFFIX,jiocinema.voot.com
+DOMAIN-SUFFIX,jio.com
+DOMAIN-SUFFIX,jiocinema.com
 DOMAIN,mercury.akamaized.net
 DOMAIN,jioeventeng.akamaized.net
 DOMAIN,jioeventhin.akamaized.net

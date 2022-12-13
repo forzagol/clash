@@ -1,13 +1,14 @@
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,cws.conviva.com
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxnews.com
+DOMAIN-SUFFIX,foxnation.com
+DOMAIN-SUFFIX,foxdcg.com
 DOMAIN,x-live-fox-stgec.uplynk.com
 DOMAIN,foxentertainment.hb.omtrdc.net
 DOMAIN,content-ausc1.uplynk.com
 DOMAIN,x-default-stgec.uplynk.com
 DOMAIN,content-ausw2-up-1.uplynk.com
 DOMAIN,content-ausw1.uplynk.com
-DOMAIN-SUFFIX,fox.com
-DOMAIN-SUFFIX,foxnews.com
-DOMAIN-SUFFIX,foxnation.com
-DOMAIN-SUFFIX,foxdcg.com
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,cws.conviva.com
+
 

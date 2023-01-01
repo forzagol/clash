@@ -9,10 +9,11 @@ DOMAIN,cdn.7livecloud.io
 DOMAIN-KEYWORD,9now
 DOMAIN,nine.com.au
 DOMAIN,9now.com.au
-DOMAIN,brightcove.com
 DOMAIN,p-9now.akamaized.net
 DOMAIN,9now-livestreams.akamaized.net
 DOMAIN,9now-livestreams-v2.akamaized.net
+DOMAIN-SUFFIX,brightcove.com
+DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,9cdn.net
 DOMAIN-SUFFIX,edge.api.brightcove.com,9now
 DOMAIN-SUFFIX,9nation.com.au
@@ -32,7 +33,7 @@ DOMAIN-SUFFIX,yourtv.com.au
 # NAME: 10 play
 DOMAIN-SUFFIX,10play.com.au
 DOMAIN-SUFFIX,global.ssl.fastly.net
-DOMAIN-SUFFIX,airspace-cdn.cbsviedo.com
+DOMAIN-SUFFIX,airspace-cdn.cbsviedo.com 
 DOMAIN,net10-livestream-keys.play.cbsi.video
 DOMAIN,net10-livestream.play.cbsi.video
 DOMAIN,d25m2gzplgnf0.cloudfront.net

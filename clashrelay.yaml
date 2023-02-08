@@ -17,6 +17,12 @@ proxy-groups:
       - 🇯🇵 日本实验性 IEPL 中继 1
       - 🇯🇵 日本鯛魚燒 1
       - 🚄 代理链
+  - name: 日本
+    type: select
+    proxies:
+      - 🇯🇵 日本 01
+      - 🇯🇵 日本实验性 IEPL 中继 1
+      - 🇯🇵 日本鯛魚燒 1
   - name: FUBOTV
     type: select
     proxies:
@@ -30,9 +36,7 @@ proxy-groups:
     interval: 300
     proxies:
       - DIRECT
-      - 🇯🇵 日本 01
-      - 🇯🇵 日本实验性 IEPL 中继 1
-      - 🇯🇵 日本鯛魚燒 1
+      - 日本
       - 🚄 代理链
   - name: 🎯 全球直连
     type: select
@@ -56,10 +60,8 @@ proxy-groups:
   - name: 🚄 代理链
     type: relay
     proxies:
+      - 日本
       - 老胡凤凰城
-      - 🇯🇵 日本 01
-      - 🇯🇵 日本实验性 IEPL 中继 1
-      - 🇯🇵 日本鯛魚燒 1
       
 rules:
  - DOMAIN-SUFFIX,fubo.tv,FUBOTV

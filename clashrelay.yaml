@@ -46,6 +46,7 @@ proxy-groups:
       - DIRECT
       - ✈️ 花云
       - 🚴 EF
+      - 🚴 菜市场
       - 🚄 代理链
   - name: ♻️ 自动选择
     type: url-test
@@ -54,6 +55,7 @@ proxy-groups:
     proxies:
       - ✈️ 花云
       - 🚴 EF
+      - 🚴 菜市场
       - 🚄 代理链
   - name: 🎯 全球直连
     type: select
@@ -73,6 +75,7 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - ✈️ 花云
+      - 🚴 菜市场
       - 🚴 EF
       - 🚄 代理链
   - name: 🚄 代理链
@@ -93,7 +96,14 @@ proxy-groups:
     interval: 600
     tolerance: 50
     use:
-      - 🚴 efcloud      
+      - 🚴 efcloud  
+  - name: 🚴 菜市场
+    type: select
+    url: http://www.gstatic.com/generate_204
+    interval: 600
+    tolerance: 50
+    use:
+      - 🚴 texon   
       
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连

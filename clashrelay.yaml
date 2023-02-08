@@ -13,7 +13,7 @@ proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
-      - 🇯🇵 日本
+      - 日本
       - 🚄 代理链
   - name: 日本
     type: select
@@ -24,7 +24,7 @@ proxy-groups:
   - name: FUBOTV
     type: select
     proxies:
-      - 🇯🇵 日本 
+      - 日本 
       - 🚄 代理链
   - name: ♻️ 自动选择
     type: url-test

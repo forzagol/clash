@@ -31,7 +31,6 @@ proxy-groups:
     type: select
     proxies:
       - DIRECT
-      - 🚀 节点选择
       - ♻️ 自动选择
   - name: 🛑 全球拦截
     type: select
@@ -41,7 +40,6 @@ proxy-groups:
   - name: 🐟 漏网之鱼
     type: select
     proxies:
-      - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
       - 🇯🇵 日本 01

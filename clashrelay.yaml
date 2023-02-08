@@ -15,6 +15,12 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - ✈️ 花云
+      - 🚴 EF
+      - 🚄 代理链
+  - name: FUBOTV
+    type: select
+    proxies:
       - 🇯🇵 日本 01
       - 🇯🇵 日本实验性 IEPL 中继 1
       - 🇯🇵 日本鯛魚燒 1

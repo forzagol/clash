@@ -55,27 +55,6 @@ proxy-groups:
       - 🇯🇵 日本 01
       - 🇯🇵 日本实验性 IEPL 中继 1
       - 🇯🇵 日本鯛魚燒
-  - name: 🇯🇵 日本实验性 IEPL 中继 1
-    type: select
-    url: http://www.gstatic.com/generate_204
-    interval: 600
-    tolerance: 50
-    use:
-      - 🇯🇵 日本实验性 IEPL 中继 1
-  - name: 🇯🇵 日本 01-1800454462
-    type: select
-    url: http://www.gstatic.com/generate_204
-    interval: 600
-    tolerance: 50
-    use:
-      - 🇯🇵 日本 01  
-  - name: 🇯🇵 日本鯛魚燒 1-3693814458
-    type: select
-    url: http://www.gstatic.com/generate_204
-    interval: 600
-    tolerance: 50
-    use:
-      - 🇯🇵 日本鯛魚燒 
       
 rules:
  - DOMAIN-SUFFIX,fubo.tv,FUBOTV

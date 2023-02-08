@@ -9,43 +9,10 @@ proxies:
   - {name: 🇯🇵 日本实验性 IEPL 中继 1-2005088734, server: preshdata1.anipkzhx.xyz, port: 10102, type: trojan, password: 7CE1A924-864F-886C-CDEE-2389C4E3F277, sni: douyincdn.com, skip-cert-verify: false}
   - {name: 🇯🇵 日本鯛魚燒 1-3693814458, server: shh-01.nK6OQsCDnI.dxs5.xyz, port: 10000, type: ss, cipher: aes-128-gcm, password: Q5201314000}
   - {name: 🇯🇵 日本 01-1800454462, server: dl-jp1.steamdownload.top, port: 443, type: trojan, password: 342513b2-66ce-4a0f-a6ff-2c6b71963364, sni: data-jp.efyunpan.com, skip-cert-verify: false}
-proxy-providers:
-  🇯🇵 日本实验性 IEPL 中继 1:
-    type: http
-    path: ./Proxies/flowercloud.yaml
-    url: https://dlj.tf/TtnR4hr
-    interval: 864000
-    health-check:
-      enable: true
-      url: http://www.gstatic.com/generate_204
-      interval: 86400
-      lazy: true
-  🇯🇵 日本鯛魚燒 1:
-    type: http
-    path: ./Proxies/texon.yaml
-    url: https://dlj.tf/1t6jDtz
-    interval: 864000
-    health-check:
-      enable: true
-      url: http://www.gstatic.com/generate_204
-      interval: 86400
-      lazy: true        
-  🇯🇵 日本 01-1800454462:
-    type: http
-    path: ./Proxies/efcloud.yaml
-    url: https://dlj.tf/Iqvle5i
-    interval: 864000
-    health-check:
-      enable: true
-      url: http://www.gstatic.com/generate_204
-      interval: 86400
-      lazy: true      
 proxy-groups:
   - name: FUBOTV
     type: select
     proxies:
-      - ♻️ 自动选择
-      - DIRECT
       - 🇯🇵 日本 01
       - 🇯🇵 日本实验性 IEPL 中继 1
       - 🇯🇵 日本鯛魚燒 
@@ -84,10 +51,10 @@ proxy-groups:
   - name: 🚄 代理链
     type: relay
     proxies:
+      - 老胡凤凰城
       - 🇯🇵 日本 01
       - 🇯🇵 日本实验性 IEPL 中继 1
       - 🇯🇵 日本鯛魚燒
-      - 老胡凤凰城
   - name: 🇯🇵 日本实验性 IEPL 中继 1
     type: select
     url: http://www.gstatic.com/generate_204

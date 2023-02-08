@@ -11,17 +11,27 @@ proxy-providers:
   ✈️  flowercloud:
     type: http
     path: ./Proxies/flowercloud.yaml
-    url: https://suo.yt/KFyUhSg
+    url: https://dlj.tf/TtnR4hr
     interval: 864000
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
       interval: 86400
       lazy: true
+  🚴 texon:
+    type: http
+    path: ./Proxies/texon.yaml
+    url: https://dlj.tf/1t6jDtz
+    interval: 864000
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 86400
+      lazy: true        
   🚴 efcloud:
     type: http
     path: ./Proxies/efcloud.yaml
-    url: https://suo.yt/KFyUhSg
+    url: https://dlj.tf/Iqvle5i
     interval: 864000
     health-check:
       enable: true

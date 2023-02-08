@@ -66,6 +66,16 @@ proxy-groups:
 rules:
  - DOMAIN-SUFFIX,fubo.tv,FUBOTV
  - DOMAIN-SUFFIX,fubotv.com,FUBOTV
+ - DOMAIN-SUFFIX,peacocktv.com,FUBOTV
+ - DOMAIN-SUFFIX,mparticle.com,FUBOTV
+ - DOMAIN-SUFFIXDOMAIN-SUFFIX,newrelic.com,FUBOTV
+ - DOMAIN-SUFFIX,dsct.akamai.net,FUBOTV
+ - DOMAIN-SUFFIX,digitalcertvalidation.com,FUBOTV
+ - DOMAIN-SUFFIX,dscw105.akamai.net,FUBOTV
+ - DOMAIN-KEYWORD,nbcstreaming,FUBOTV
+ - DOMAIN-KEYWORD,peacockvod,FUBOTV
+ - DOMAIN-KEYWORD,peacocktv,FUBOTV
+ - PROCESS-NAME,com.peacocktv.peacockandroid,FUBOTV
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连

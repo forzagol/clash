@@ -41,23 +41,24 @@ proxy-providers:
       interval: 86400
       lazy: true      
 proxy-groups:
-  - name: 🚀 节点选择
+  - name: FUBOTV
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - ✈️ 花云
-      - 🚴 EF
-      - 🚴 菜市场
+      - 🇯🇵 日本 01
+      - 🇯🇵 日本实验性 IEPL 中继 1
+      - 🇯🇵 日本鯛魚燒 
       - 🚄 代理链
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - ✈️ 花云
-      - 🚴 EF
-      - 🚴 菜市场
+      - DIRECT
+      - 🇯🇵 日本 01
+      - 🇯🇵 日本实验性 IEPL 中继 1
+      - 🇯🇵 日本鯛魚燒 1
       - 🚄 代理链
   - name: 🎯 全球直连
     type: select
@@ -76,15 +77,17 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - ✈️ 花云
-      - 🚴 菜市场
-      - 🚴 EF
+      - 🇯🇵 日本 01
+      - 🇯🇵 日本实验性 IEPL 中继 1
+      - 🇯🇵 日本鯛魚燒 
       - 🚄 代理链
   - name: 🚄 代理链
     type: relay
     proxies:
-      - ✈️ 花云
-      - 🚴 EF
+      - 🇯🇵 日本 01
+      - 🇯🇵 日本实验性 IEPL 中继 1
+      - 🇯🇵 日本鯛魚燒
+      - 老胡凤凰城
   - name: ✈️ 花云
     type: select
     url: http://www.gstatic.com/generate_204
@@ -108,6 +111,8 @@ proxy-groups:
       - 🚴 texon   
       
 rules:
+ - DOMAIN-SUFFIX,fubo.tv,FUBOTV
+ - DOMAIN-SUFFIX,fubotv.com,FUBOTV
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连

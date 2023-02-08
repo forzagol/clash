@@ -5,9 +5,10 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 🇯🇵 日本, server: 180.163.67.212, port: 54749, type: ss, cipher: aes-128-gcm, password: PfgbFXQovp, udp: true}
-  - {name: 🇺🇸 凤凰城, server: us.hugesport.xyz, port: 34597, type: trojan, password: SqMw9NkaW7, sni: us.hugesport.xyz, skip-cert-verify: true}
-  - {name: 🇭🇰 香港, server: 180.163.67.212, port: 10077, type: ss, cipher: aes-128-gcm, password: PfgbFXQovp, udp: true}
+  - {name: 老胡凤凰城, server: us.hugesport.xyz, port: 34597, type: trojan, password: SqMw9NkaW7, sni: us.hugesport.xyz, skip-cert-verify: true}
+  - {name: 🇯🇵 日本实验性 IEPL 中继 1-2005088734, server: preshdata1.anipkzhx.xyz, port: 10102, type: trojan, password: 7CE1A924-864F-886C-CDEE-2389C4E3F277, sni: douyincdn.com, skip-cert-verify: false}
+  - {name: 🇯🇵 日本鯛魚燒 1-3693814458, server: shh-01.nK6OQsCDnI.dxs5.xyz, port: 10000, type: ss, cipher: aes-128-gcm, password: Q5201314000}
+  - {name: 🇯🇵 日本 01-1800454462, server: dl-jp1.steamdownload.top, port: 443, type: trojan, password: 342513b2-66ce-4a0f-a6ff-2c6b71963364, sni: data-jp.efyunpan.com, skip-cert-verify: false}
 proxy-providers:
   ✈️  flowercloud:
     type: http

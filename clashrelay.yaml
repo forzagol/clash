@@ -10,6 +10,15 @@ proxies:
   - {name: 🇯🇵 日本鯛魚燒 1, server: shh-01.nK6OQsCDnI.dxs5.xyz, port: 10000, type: ss, cipher: aes-128-gcm, password: Q5201314000}
   - {name: 🇯🇵 日本 01, server: dl-jp1.steamdownload.top, port: 443, type: trojan, password: 342513b2-66ce-4a0f-a6ff-2c6b71963364, sni: data-jp.efyunpan.com, skip-cert-verify: false}
 proxy-groups:
+    - name: 🚀 节点选择
+    type: select
+    proxies:
+      - ♻️ 自动选择
+      - DIRECT
+      - 🇯🇵 日本 01
+      - 🇯🇵 日本实验性 IEPL 中继 1
+      - 🇯🇵 日本鯛魚燒 1
+      - 🚄 代理链
   - name: FUBOTV
     type: select
     proxies:

@@ -9,6 +9,9 @@ DOMAIN,eu3-prod.disco-api.com,EUROSPORT
 DOMAIN-SUFFIX,eurosportplayer.com,EUROSPORT
 DOMAIN-SUFFIX,eurosport.com,EUROSPORT
 DOMAIN-SUFFIX,eurosport.fr,EUROSPORT
+DOMAIN-SUFFIX,eurosport.es,EUROSPORT
+DOMAIN-SUFFIX,eurosport.ro,EUROSPORT
+DOMAIN-SUFFIX,eurosport.io,EUROSPORT
 DOMAIN-SUFFIX,eurosport.ru,EUROSPORT
 DOMAIN,media-shield.live.eurosport.map.fastly.net,EUROSPORT
 DOMAIN,eurosport-dlvr-ott-vod.akamaized.net,EUROSPORT

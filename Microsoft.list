@@ -2,6 +2,15 @@
 # 数量：76条
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,microsoft
+DOMAIN-SUFFIX,openai.com,Microsoft
+DOMAIN-SUFFIX,ai.com,Microsoft
+DOMAIN,chat.openai.com.cdn.cloudflare.net,Microsoft
+DOMAIN,co33249.ingest.sentry.io,Microsoft
+DOMAIN,copenaiapi-site.azureedge.net,Microsoft
+DOMAIN,copenaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,Microsoft
+DOMAIN,copenaicom.imgix.net,Microsoft
+DOMAIN,copenaicomproductionae4b.blob.core.windows.net,Microsoft
+DOMAIN,cproduction-openaicom-storage.azureedge.net,Microsoft
 DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.com
 DOMAIN-SUFFIX,acompli.net

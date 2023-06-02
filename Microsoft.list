@@ -1,16 +1,7 @@
 # 内容：Microsoft
-# 数量：76条
+# 数量：79条
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,microsoft
-DOMAIN-SUFFIX,openai.com,Microsoft
-DOMAIN-SUFFIX,ai.com,Microsoft
-DOMAIN,chat.openai.com.cdn.cloudflare.net,Microsoft
-DOMAIN,o33249.ingest.sentry.io,Microsoft
-DOMAIN,copenaiapi-site.azureedge.net,Microsoft
-DOMAIN,copenaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,Microsoft
-DOMAIN,copenaicom.imgix.net,Microsoft
-DOMAIN,copenaicomproductionae4b.blob.core.windows.net,Microsoft
-DOMAIN,cproduction-openaicom-storage.azureedge.net,Microsoft
 DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.com
 DOMAIN-SUFFIX,acompli.net
@@ -21,8 +12,11 @@ DOMAIN-SUFFIX,assets-yammer.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azureiotcentral.com
 DOMAIN-SUFFIX,azurerms.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
 DOMAIN-SUFFIX,edgesuite.net

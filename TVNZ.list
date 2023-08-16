@@ -7,7 +7,7 @@ DOMAIN,in.appcenter.ms
 DOMAIN,api.iterable.com
 DOMAIN-SUFFIX,tvnz.co.nz
 DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,api.segment.io
 DOMAIN-KEYWORD,tvnz
 PROCESS-NAME,nz.co.tvnz.ondemand.phone.android
 DOMAIN,secure-nz.imrworldwide.com

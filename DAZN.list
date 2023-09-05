@@ -24,4 +24,6 @@ DOMAIN-SUFFIX,logx.optimizely.com
 DOMAIN-SUFFIX,s.yimg.jp
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-KEYWORD,voddazn
+DOMAIN-KEYWORD,voddash-perform.secure.footprint.net
+DOMAIN-KEYWORD,dazn
 USER-AGENT,DAZN*

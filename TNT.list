@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,gb-sports-cloudfront.prod-live.h264.io
 DOMAIN-SUFFIX,gb-sports-cloudfront-vod.prod-live.h264.io
-DOMAIN-SUFFIX,gb-sports.fastly.prod-live.h264.io
+DOMAIN-SUFFIX,gb-sports-live.fastly.prod-live.h264.io
+DOMAIN-SUFFIX,gb-sports-vod.fastly.prod-live.h264.io
 DOMAIN-SUFFIX,prod-gb-vod.akamaized.net
 DOMAIN-SUFFIX,prod-gb-live.akamaized.net
 DOMAIN-SUFFIX,brightline.tv

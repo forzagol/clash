@@ -8,6 +8,9 @@ DOMAIN,cpt.itv.com
 DOMAIN,prod-tv.massive-itv.com
 DOMAIN-SUFFIX,braze.eu
 DOMAIN,launches.appsflyer.com
-DOMAIN-SUFFIX,britbox.co.uk
 DOMAIN-SUFFIX,britbox.com
-
+DOMAIN,vod-dash-ntham-comm-live.akamaized.net
+DOMAIN,vod-dash-ntham-comm.live.cf.md.bbci.co.uk
+DOMAIN,vod-hls-ntham-comm-live.akamaized.net
+DOMAIN,vod-hls-ntham-comm.live.cf.md.bbci.co.uk
+DOMAIN-SUFFIX,britbox.co.uk

@@ -1,7 +1,5 @@
-  # > HBO Max
-  # USER-AGENT,HBOMAX*
+
 DOMAIN-SUFFIX,hbo.com
-  # DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,hbomax.com
-PROCESS-NAME,com.hbo.hbonow
+DOMAIN-SUFFIX,hbomaxcdn.com

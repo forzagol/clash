@@ -1,6 +1,5 @@
 # 内容：Dmm
 # 数量：14条
-DOMAIN,pigeon.i3.dmm.com,REJECT
 DOMAIN,dmm-dig-block-simul-watch-prod.appspot.com,REJECT
 DOMAIN-SUFFIX,akabeesoft2.com
 DOMAIN-SUFFIX,akabeesoft3.com
